@@ -1,0 +1,11 @@
+{
+"access_point":
+	{"name":"Airtel_Home_5G",
+	"password":"freekanet"}
+,
+"wifi_adapter":
+	"wlan0",
+"wifi_adapter_mon":
+	"wlan0mon"
+}
+
